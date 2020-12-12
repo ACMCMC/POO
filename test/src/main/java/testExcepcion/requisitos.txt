@@ -1,0 +1,3 @@
+                            Vehiculo obtenerVelocidadMaxima()
+                                |
+        Coche llevarEquipaje()               Moto derrapar()
